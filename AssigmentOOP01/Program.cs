@@ -33,7 +33,6 @@
     }
 
 
-
     [Flags]
     enum Permissions
     {
