@@ -32,6 +32,7 @@
         Winter
     }
 
+
     [Flags]
     enum Permissions
     {
